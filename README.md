@@ -77,11 +77,11 @@ Select a multi-step question (e.g., "What is 25% of the sum of 40 and 60?").
 
 Create a prompt that asks the model to:
 
-Restate the problem
+- Restate the problem
 
-Break it into smaller steps
+- Break it into smaller steps
 
-Solve each step before giving the final answer
+- Solve each step before giving the final answer
 
 Review the reasoning process and check the accuracy of the final solution.
 
